@@ -1,0 +1,8 @@
+E:\SECOND SEMESTER\OOP\Interface1\Interface1\bin\Debug\Interface1.exe.config
+E:\SECOND SEMESTER\OOP\Interface1\Interface1\bin\Debug\Interface1.exe
+E:\SECOND SEMESTER\OOP\Interface1\Interface1\bin\Debug\Interface1.pdb
+E:\SECOND SEMESTER\OOP\Interface1\Interface1\obj\Debug\Interface1.csprojResolveAssemblyReference.cache
+E:\SECOND SEMESTER\OOP\Interface1\Interface1\obj\Debug\Interface1.Properties.Resources.resources
+E:\SECOND SEMESTER\OOP\Interface1\Interface1\obj\Debug\Interface1.csproj.GenerateResource.Cache
+E:\SECOND SEMESTER\OOP\Interface1\Interface1\obj\Debug\Interface1.exe
+E:\SECOND SEMESTER\OOP\Interface1\Interface1\obj\Debug\Interface1.pdb

@@ -1,0 +1,6 @@
+E:\SECOND SEMESTER\OOP\DiffStaticInstance\DiffStaticInstance\bin\Debug\DiffStaticInstance.exe.config
+E:\SECOND SEMESTER\OOP\DiffStaticInstance\DiffStaticInstance\bin\Debug\DiffStaticInstance.exe
+E:\SECOND SEMESTER\OOP\DiffStaticInstance\DiffStaticInstance\bin\Debug\DiffStaticInstance.pdb
+E:\SECOND SEMESTER\OOP\DiffStaticInstance\DiffStaticInstance\obj\Debug\DiffStaticInstance.csprojResolveAssemblyReference.cache
+E:\SECOND SEMESTER\OOP\DiffStaticInstance\DiffStaticInstance\obj\Debug\DiffStaticInstance.exe
+E:\SECOND SEMESTER\OOP\DiffStaticInstance\DiffStaticInstance\obj\Debug\DiffStaticInstance.pdb

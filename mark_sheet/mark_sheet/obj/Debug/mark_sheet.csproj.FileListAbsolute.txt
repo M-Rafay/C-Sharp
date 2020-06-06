@@ -1,0 +1,6 @@
+E:\SECOND SEMESTER\OOP\mark_sheet\mark_sheet\bin\Debug\mark_sheet.exe.config
+E:\SECOND SEMESTER\OOP\mark_sheet\mark_sheet\bin\Debug\mark_sheet.exe
+E:\SECOND SEMESTER\OOP\mark_sheet\mark_sheet\bin\Debug\mark_sheet.pdb
+E:\SECOND SEMESTER\OOP\mark_sheet\mark_sheet\obj\Debug\mark_sheet.csprojResolveAssemblyReference.cache
+E:\SECOND SEMESTER\OOP\mark_sheet\mark_sheet\obj\Debug\mark_sheet.exe
+E:\SECOND SEMESTER\OOP\mark_sheet\mark_sheet\obj\Debug\mark_sheet.pdb

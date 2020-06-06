@@ -1,0 +1,6 @@
+E:\SECOND SEMESTER\OOP\Interface2\Interface2\bin\Debug\Interface2.exe.config
+E:\SECOND SEMESTER\OOP\Interface2\Interface2\obj\Debug\Interface2.csprojResolveAssemblyReference.cache
+E:\SECOND SEMESTER\OOP\Interface2\Interface2\bin\Debug\Interface2.exe
+E:\SECOND SEMESTER\OOP\Interface2\Interface2\bin\Debug\Interface2.pdb
+E:\SECOND SEMESTER\OOP\Interface2\Interface2\obj\Debug\Interface2.exe
+E:\SECOND SEMESTER\OOP\Interface2\Interface2\obj\Debug\Interface2.pdb

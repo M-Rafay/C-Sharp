@@ -1,0 +1,9 @@
+E:\SECOND SEMESTER\OOP\login\login\bin\Debug\login.exe.config
+E:\SECOND SEMESTER\OOP\login\login\obj\Debug\login.csprojResolveAssemblyReference.cache
+E:\SECOND SEMESTER\OOP\login\login\obj\Debug\login.Form1.resources
+E:\SECOND SEMESTER\OOP\login\login\obj\Debug\login.Properties.Resources.resources
+E:\SECOND SEMESTER\OOP\login\login\obj\Debug\login.csproj.GenerateResource.Cache
+E:\SECOND SEMESTER\OOP\login\login\bin\Debug\login.exe
+E:\SECOND SEMESTER\OOP\login\login\bin\Debug\login.pdb
+E:\SECOND SEMESTER\OOP\login\login\obj\Debug\login.exe
+E:\SECOND SEMESTER\OOP\login\login\obj\Debug\login.pdb

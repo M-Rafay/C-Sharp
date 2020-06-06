@@ -1,0 +1,6 @@
+E:\SECOND SEMESTER\OOP\Over_L_R\Over_L_R\bin\Debug\Over_L_R.exe.config
+E:\SECOND SEMESTER\OOP\Over_L_R\Over_L_R\bin\Debug\Over_L_R.exe
+E:\SECOND SEMESTER\OOP\Over_L_R\Over_L_R\bin\Debug\Over_L_R.pdb
+E:\SECOND SEMESTER\OOP\Over_L_R\Over_L_R\obj\Debug\Over_L_R.csprojResolveAssemblyReference.cache
+E:\SECOND SEMESTER\OOP\Over_L_R\Over_L_R\obj\Debug\Over_L_R.exe
+E:\SECOND SEMESTER\OOP\Over_L_R\Over_L_R\obj\Debug\Over_L_R.pdb

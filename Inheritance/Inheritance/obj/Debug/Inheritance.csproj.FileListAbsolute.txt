@@ -1,0 +1,12 @@
+E:\SECOND SEMESTER\OOP\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+E:\SECOND SEMESTER\OOP\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+E:\SECOND SEMESTER\OOP\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+E:\SECOND SEMESTER\OOP\Inheritance\Inheritance\obj\Debug\Inheritance.csprojResolveAssemblyReference.cache
+E:\SECOND SEMESTER\OOP\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+E:\SECOND SEMESTER\OOP\Inheritance\Inheritance\obj\Debug\Inheritance.pdb
+E:\SECOND SEMESTER\OOP\Inheritance\Inheritance\bin\Debug\mscorlib.dll
+E:\SECOND SEMESTER\OOP\Inheritance\Inheritance\bin\Debug\normidna.nlp
+E:\SECOND SEMESTER\OOP\Inheritance\Inheritance\bin\Debug\normnfc.nlp
+E:\SECOND SEMESTER\OOP\Inheritance\Inheritance\bin\Debug\normnfd.nlp
+E:\SECOND SEMESTER\OOP\Inheritance\Inheritance\bin\Debug\normnfkc.nlp
+E:\SECOND SEMESTER\OOP\Inheritance\Inheritance\bin\Debug\normnfkd.nlp

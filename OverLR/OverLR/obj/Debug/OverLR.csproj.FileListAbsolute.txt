@@ -1,0 +1,2 @@
+E:\SECOND SEMESTER\OOP\OverLR\OverLR\bin\Debug\OverLR.exe.config
+E:\SECOND SEMESTER\OOP\OverLR\OverLR\obj\Debug\OverLR.csprojResolveAssemblyReference.cache

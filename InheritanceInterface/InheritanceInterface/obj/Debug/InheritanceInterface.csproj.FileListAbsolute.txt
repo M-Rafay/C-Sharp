@@ -1,0 +1,6 @@
+E:\SECOND SEMESTER\OOP\InheritanceInterface\InheritanceInterface\bin\Debug\InheritanceInterface.exe.config
+E:\SECOND SEMESTER\OOP\InheritanceInterface\InheritanceInterface\bin\Debug\InheritanceInterface.exe
+E:\SECOND SEMESTER\OOP\InheritanceInterface\InheritanceInterface\bin\Debug\InheritanceInterface.pdb
+E:\SECOND SEMESTER\OOP\InheritanceInterface\InheritanceInterface\obj\Debug\InheritanceInterface.csprojResolveAssemblyReference.cache
+E:\SECOND SEMESTER\OOP\InheritanceInterface\InheritanceInterface\obj\Debug\InheritanceInterface.exe
+E:\SECOND SEMESTER\OOP\InheritanceInterface\InheritanceInterface\obj\Debug\InheritanceInterface.pdb

@@ -1,0 +1,6 @@
+E:\SECOND SEMESTER\OOP\Transformer\Transformer\bin\Debug\Transformer.exe.config
+E:\SECOND SEMESTER\OOP\Transformer\Transformer\bin\Debug\Transformer.exe
+E:\SECOND SEMESTER\OOP\Transformer\Transformer\bin\Debug\Transformer.pdb
+E:\SECOND SEMESTER\OOP\Transformer\Transformer\obj\Debug\Transformer.csprojResolveAssemblyReference.cache
+E:\SECOND SEMESTER\OOP\Transformer\Transformer\obj\Debug\Transformer.exe
+E:\SECOND SEMESTER\OOP\Transformer\Transformer\obj\Debug\Transformer.pdb
